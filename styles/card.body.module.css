@@ -1,0 +1,13 @@
+.card_body {
+  padding: 16px;
+  margin: 16px;
+  text-align: center;
+  background-color: #ccc;
+  border-radius: 1.8rem;
+  box-shadow: .5rem .3rem 3rem #a19e9e;
+}
+
+.card img {
+  max-width: 100%;
+  height: auto;
+}
